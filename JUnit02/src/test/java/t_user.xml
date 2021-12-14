@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<dataset>
-	<t_user id="1" username="admin" password="123" nickname="超级管理员"/>
-	<t_user id="2" username="tlic2" password="123" nickname="kh2"/>
-	<t_test id="1" name="t_test_talbe"/>
-</dataset>
